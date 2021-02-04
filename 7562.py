@@ -32,7 +32,7 @@ for test in range(T) :
     L = int(input())
     sx, sy = map(int, input().split())
     fx, fy = map(int, input().split())
-    result = 987654321
+    #result = 987654321
     visted = [[0] * L for i in range(L)]
     result = knight(sx, sy)
     print(result)
