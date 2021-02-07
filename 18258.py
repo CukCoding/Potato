@@ -4,7 +4,7 @@ import sys
 input = lambda : sys.stdin.readline().strip()
 N = int(input())
 de = deque()
-
+#ㅁㄴㅇ
 for i in range(N) :
     a = input().split()
 
